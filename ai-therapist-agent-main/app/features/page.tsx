@@ -21,12 +21,6 @@ const features = [
       "24/7 access to empathetic AI agents trained in various therapeutic approaches, providing personalized mental health support.",
   },
   {
-    icon: <Shield className="w-10 h-10 text-primary" />,
-    title: "Blockchain Security",
-    description:
-      "Your therapy sessions are secured by blockchain technology, ensuring complete privacy and transparent record-keeping.",
-  },
-  {
     icon: <Brain className="w-10 h-10 text-primary" />,
     title: "Smart Analysis",
     description:
@@ -37,12 +31,6 @@ const features = [
     title: "Crisis Detection",
     description:
       "Real-time monitoring and emergency response protocols to ensure your safety during critical situations.",
-  },
-  {
-    icon: <Wifi className="w-10 h-10 text-primary" />,
-    title: "IoT Integration",
-    description:
-      "Connect with smart home devices to create an ambient therapeutic environment that adapts to your needs.",
   },
   {
     icon: <LineChart className="w-10 h-10 text-primary" />,
